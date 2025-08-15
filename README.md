@@ -12,8 +12,8 @@ Passionate about building production-ready ML systems with measurable impact. Pr
 ## 🗃️ Key Projects
 | Project | Tech Stack | Impact |
 |---------|------------|--------|
-| [Real-time Air Quality Dashboard](link) | DuckDB, Plotly, FastAPI | 30% faster response via caching |
-| [Amazon Review Sentiment Analysis](link) | PyTorch, Transformers, RoBERTa | 92% accuracy, 15% F1 improvement |
+| [Real-time Air Quality Dashboard]([link](https://github.com/YVandana/Live-Dashboard-for-Air-Quality-Data)) | DuckDB, Plotly, FastAPI | 30% faster response via caching |
+| [Amazon Review Sentiment Analysis]([link](https://github.com/YVandana/Sentiment-Analysis-on-Amazon-Reviews)) | PyTorch, Transformers, RoBERTa | 92% accuracy, 15% F1 improvement |
 | [Gala Groceries Demand Forecast](link) | Python, Scikit-learn | Enabled data-driven inventory decisions |
 
 ## 💼 Impactful Experience
