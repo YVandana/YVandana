@@ -1,6 +1,6 @@
 # ✨ About Me:
 **AI/ML Engineer & Data Solutions Specialist** | MSc Artificial Intelligence @ Queen Mary  
-Passionate about building production-ready ML systems with measurable impact. Proven expertise in:
+I'm passionate about building production-ready ML systems with measurable impact. Proven expertise in:
 - 🚀 End-to-end ML deployment (FastAPI, Docker, MLflow)
 - 🤖 LLM optimization & prompt engineering (50+ weekly structures @ Outlier)
 - 📊 Real-time analytics dashboards (30% latency reduction in Air Quality Dashboard)
@@ -48,11 +48,7 @@ Passionate about building production-ready ML systems with measurable impact. Pr
 # 📊 GitHub Stats:
 
 <br>![yvandana's Stats](https://github-readme-stats.vercel.app/api?username=yvandana&theme=dark&show_icons=true&hide_border=false&count_private=true) </br>
-<br> [![yvandana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yvandana&theme=dark&hide_border=false)](#) </br>
 <br>![yvandana's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yvandana&theme=dark&show_icons=true&hide_border=false&layout=compact) </br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yvandana&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
