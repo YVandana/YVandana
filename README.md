@@ -1,6 +1,6 @@
 # ✨ About Me:
 **AI/ML Engineer & Data Solutions Specialist** | MSc Artificial Intelligence @ Queen Mary, Universityt of London (EECS)
-I'm passionate about learning and making things more efficient and accessible. I have been working on deploying systems that are cohesive and keeping software develpoment, especially MLOps in mind while doing so. While my academic journey was focused more on CV, I have since branched out to LLMs learning about RAGs and TinyLLMs. Currently working on a project based on ML applications on data from a Sinter Plant. 
+I'm passionate about learning and making things more efficient and accessible using Data, Statistical Analysis and Machine Learning Algorithms. I have been working on deploying systems that are cohesive and keeping software develpoment, especially MLOps in mind while doing so. While my academic journey was focused more on CV, I have since branched out to LLMs learning about RAGs and TinyLLMs. Currently working on a project based on ML applications on Industrial Data.
 
 
 I have proven expertise in:
