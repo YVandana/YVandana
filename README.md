@@ -14,7 +14,7 @@ I'm passionate about building production-ready ML systems with measurable impact
 |---------|------------|--------|
 | [Real-time Air Quality Dashboard](https://github.com/YVandana/Live-Dashboard-for-Air-Quality-Data) | DuckDB, Plotly, FastAPI | 30% faster response via caching |
 | [Amazon Review Sentiment Analysis](https://github.com/YVandana/Sentiment-Analysis-on-Amazon-Reviews) | PyTorch, Transformers, RoBERTa | 92% accuracy, 15% F1 improvement |
-| [Gala Groceries Demand Forecast] | Python, Scikit-learn | Enabled data-driven inventory decisions |
+| [Customer Segmentation of an Online Gift Store](https://github.com/YVandana/Customer-Analysis-And-Segmentation-of-an-Online-Retail-Gift-Store) | Python, Pandas, Seaborn, Matplotlib, Scikit-learn | EDA on Customer Data and Customer Segmentation with K Means |
 
 ## 💼 Impactful Experience
 **Outlier** - Data Scientist (Prompt Engineering)  
